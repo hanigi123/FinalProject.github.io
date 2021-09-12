@@ -17,6 +17,8 @@ title{
 .header h1{
     padding
 }
+.gallery{
+}
 
 .order{
     font-size: 40px;
@@ -71,4 +73,17 @@ title{
 }
 .rev{
     background-color: white;
+}
+.videotitle{
+    color: white;
+}
+.question{
+    background-color: white;
+}
+.article2{
+    color: white;
+    background-color: #2B2928;
+}
+.burger-inf img{
+    height: 700px;
 }
