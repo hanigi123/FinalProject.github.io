@@ -1,0 +1,74 @@
+body{
+    background-color: #b17651;
+}
+title{
+    line-height: 2;
+}
+.header{
+    background-color: #2B2928;
+    padding: 1rem;
+    color: white;
+}
+.header img{
+    color: white;
+    width: 9rem;
+    padding-top: 1rem;
+}
+.header h1{
+    padding
+}
+
+.order{
+    font-size: 40px;
+}
+.contact{
+    font-size: 40px;
+}
+.footer{
+    background-color: #2B2928;
+    color: white;
+    font-size: 18px;
+}
+.email{
+    font-size: 45px;
+}
+.menunav{
+    background-color: red;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.title-logo img{
+    width: 33px;
+    padding-bottom: 24px;
+}
+.title-logo{
+}
+.title-main{
+    font-weight: bold;
+}
+.burger-sc{
+}
+.about-sc{
+    background-color: white;
+}
+.about-sc p{
+}
+.article{
+    background-color: white;
+}
+.order-now{
+    background-color: red;
+}
+.gallery img{
+    width: 295px;
+}
+.gallery-title{
+    color: white;
+}
+.line-dec{
+    background-color: white;
+    height: 5px;
+}
+.rev{
+    background-color: white;
+}
