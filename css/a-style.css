@@ -94,3 +94,33 @@ title{
 .contacts img{
     width: 20px;
 }
+.video iframe{
+    height: 450px;
+}
+.box-table th{
+    border: 2px solid black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+tbody td{
+    border: 2px solid black;
+}
+tbody{
+    border-bottom: 2px solid black;
+}
+.table-numbers{
+    width: 100px;
+}
+.add-button{
+    background-color: red;
+    border: none;
+    color: white;
+}
+.add-input{
+    width: 74%;
+}
+.add-button{
+    width: 25%;
+    border: 2px solid red;
+    border-radius: 4px;
+}
