@@ -87,3 +87,10 @@ title{
 .burger-inf img{
     height: 700px;
 }
+.send-it{
+    background-color: red;
+    color: white;
+}
+.contacts img{
+    width: 20px;
+}
